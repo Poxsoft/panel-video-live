@@ -1,3 +1,10 @@
+## Date: 22/10/2024 ##
+
+URL Demo: https://luxiisoft.com/
+Accesos demo:
+Usuario: admin
+Clave: admin123
+
 ## Date: 27/06/2024  ##
 
 --> Updated Files <--
